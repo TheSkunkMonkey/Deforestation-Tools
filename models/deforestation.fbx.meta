@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="c890229d-10c7-476a-9cda-f9294ed10159">
+	<meta id="03885c91-7ae1-45f1-9cba-f7f5c6104411" type="group" folder="true" name="Materials"/>
+	<meta id="3f8f73f5-b8d1-43af-b929-2901df350cdf" type="group" folder="true" name="Meshes"/>
+	<meta id="c3d96103-7c2f-4b8d-85d8-6e30b34c163a" name="Prefab">
+		<meta id="6d9a9ec4-46cf-4601-a215-0bc4944833b2" name="small_deforestation_part"/>
+		<meta id="a1c98112-8bc0-4a7b-aa44-0154f6f92df6" name="medium_deforestation_part"/>
+		<meta id="8c50c488-715a-4436-a38a-bdf01c6056d9" name="large_deforestation_part"/>
+		<meta id="fcc2a524-9d46-416d-8afd-d19afbe139b4" name="path_deforestation_part"/>
+		<meta id="0b4d6cf2-dc9a-4ac1-81bb-57687d677266" name="tiny_deforestation_part"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="b5d42a323ae700c1d870a72b667a26a8"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="small_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="medium_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="large_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="path_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="tiny_deforestation_part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList/>
+</importer>
+

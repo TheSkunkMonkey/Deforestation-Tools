@@ -1,0 +1,18 @@
+{
+	"":{
+	
+		"DEFORESTATION_MONUMENT_NAME":"Deforestation Tools",
+		"DEFORESTATION_MONUMENT_DESC":"Helpful for mass deforestation",
+		"LIST_DEFORESTATION_NAME":"Deforestation Parts",
+		"LARGE_DEFORESTATION_PART_NAME":"Large Deforestation Part",
+		"LARGE_DEFORESTATION_PART_DESC":"Removes trees in a large area",
+		"MEDIUM_DEFORESTATION_PART_NAME":"Medium Deforestation Part",
+		"MEDIUM_DEFORESTATION_PART_DESC":"Removes trees in a medium area",
+		"SMALL_DEFORESTATION_PART_NAME":"Small Deforestation Part",
+		"SMALL_DEFORESTATION_PART_DESC":"Removes trees in a small area",
+		"TINY_DEFORESTATION_PART_NAME":"Tiny Deforestation Part",
+		"TINY_DEFORESTATION_PART_DESC":"Remove a tree in a tiny area",
+		"PATH_DEFORESTATION_PART_NAME":"Path Deforestation Part",
+		"PATH_DEFORESTATION_PART_DESC":"Removes trees in a narrow line"
+	}
+}

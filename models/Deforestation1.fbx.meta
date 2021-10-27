@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="010c232f-d8a4-4e54-b481-af28cf66efda">
+	<meta id="6d08d5e5-2f1b-4f27-b0ac-4c6a19e5af12" type="group" folder="true" name="Materials">
+		<meta id="60928337-f734-465c-8476-aded8a69177e" name="Material.Color"/>
+	</meta>
+	<meta id="bc371999-fd61-40d1-9152-b2a6d1ecdb54" type="group" folder="true" name="Meshes">
+		<meta id="27b37115-2735-43ed-8714-07358e8d4e32" name="tiny_deforestation_part_Material.Color"/>
+		<meta id="f8932bc6-c254-4457-b131-9d5c0e699a09" name="medium_deforestation_part_Material.Color"/>
+		<meta id="6f6848fe-e901-45eb-919f-1814cfbaec46" name="small_deforestation_part_Material.Color"/>
+		<meta id="63e0447b-1c74-4f74-85e9-578e56640dc2" name="large_deforestation_part_Material.Color"/>
+		<meta id="3a38c382-c29f-4971-8125-0dd4b47c516b" name="path_deforestation_part_Material.Color"/>
+	</meta>
+	<meta id="f5204a5e-a00d-42b0-b18a-62e263cc7920" name="Prefab">
+		<meta id="50e70ee3-c95e-413a-b3dc-5ea555412430" name="tiny_deforestation_part"/>
+		<meta id="929f7ef2-7a77-4386-968b-a4a86cccdae0" name="small_deforestation_part"/>
+		<meta id="b436eb76-7731-4ee6-a61e-2c9bb2e41ab3" name="medium_deforestation_part"/>
+		<meta id="4e06fe6d-6449-46d5-8c08-85d9e4e1d1e4" name="large_deforestation_part"/>
+		<meta id="5cdbe7c3-68d6-4a97-bb07-7b96adea9cd6" name="path_deforestation_part"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="e9c7225ab6508e1660dbe5c80d6ea141"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="tiny_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="small_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="medium_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="large_deforestation_part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="path_deforestation_part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="60928337-f734-465c-8476-aded8a69177e"/>
+			<MaterialName value="Material.Color"/>
+		</Item>
+	</MaterialList>
+</importer>
+
